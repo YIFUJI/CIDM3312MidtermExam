@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Study\2018 fall\cidm 3312\exam\obj\Debug\netcoreapp2.1\exam.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Study\2018 fall\cidm 3312\exam\obj\Debug\netcoreapp2.1\exam.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Study\2018 fall\cidm 3312\exam\obj\Debug\netcoreapp2.1\exam.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Study\2018 fall\cidm 3312\exam\obj\Debug\netcoreapp2.1\exam.AssemblyInfo.cs
+C:\Users\YIFU\Desktop\exam\bin\Debug\netcoreapp2.1\exam.deps.json
+C:\Users\YIFU\Desktop\exam\bin\Debug\netcoreapp2.1\exam.runtimeconfig.json
+C:\Users\YIFU\Desktop\exam\bin\Debug\netcoreapp2.1\exam.runtimeconfig.dev.json
+C:\Users\YIFU\Desktop\exam\bin\Debug\netcoreapp2.1\exam.dll
+C:\Users\YIFU\Desktop\exam\bin\Debug\netcoreapp2.1\exam.pdb
+C:\Users\YIFU\Desktop\exam\obj\Debug\netcoreapp2.1\exam.csprojAssemblyReference.cache
+C:\Users\YIFU\Desktop\exam\obj\Debug\netcoreapp2.1\exam.csproj.CoreCompileInputs.cache
+C:\Users\YIFU\Desktop\exam\obj\Debug\netcoreapp2.1\exam.AssemblyInfoInputs.cache
+C:\Users\YIFU\Desktop\exam\obj\Debug\netcoreapp2.1\exam.AssemblyInfo.cs
+C:\Users\YIFU\Desktop\exam\obj\Debug\netcoreapp2.1\exam.dll
+C:\Users\YIFU\Desktop\exam\obj\Debug\netcoreapp2.1\exam.pdb
